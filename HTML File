@@ -1,0 +1,10 @@
+HTML(HyperText Markup Language):it is used to write web pages using Markup Language.The link available on a webpage is called Hypertext.
+it contains Elements, Tags, Forms, styles, tables, blocks, Layouts etc....
+<!DOCTYPE> defines which version using HTML.
+<!DOCTYPE html> defines it is HTML 5 version.
+<html> elements is the root element of web page.
+<head> element contains meta information about the document.
+<titel>element specifies a title for the document.
+<body> element is whole document body or visible page content.
+<h1> element is large heading of page and <h2>,<h3>,<h4>,<h5>,<h6> these are all decereasing fon size of headings..
+<p> element paragraph of the document
